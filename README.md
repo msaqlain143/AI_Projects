@@ -8,4 +8,5 @@ A structured repository tracking my journey from foundational mathematics to ful
 | :--- | :--- | :--- | :--- |
 | **01** | `Project01_Numpy_Vector_Engine` | Python, NumPy, FastAPI, React | 🟡 In Progress |
 | **02** | `Project02_Pandas_Data_Ingestion` | Python, Pandas, FastAPI, React | 🔴 Upcoming |
-| **03** | `Project03_Mini_Vector_DB` | Python, NumPy, Pandas, Sentence-Transformers | 🔴 Upcoming |
+| **03** | `Project03_Mini_Vector_DB` | Python, NumPy, Pandas, Sentence-Transformers | 🔴 Upcoming |# AI_Projects
+This Repo contains the projects Related to AI  and machine Learning
